@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "6mkrsmp.aternos.me",
+    "ip": "gemsbok.aternos.host:11870",
     "port": 11870,
     "version": "1.21.4",
     "try-creative": false
